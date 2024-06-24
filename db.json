@@ -1,0 +1,14 @@
+[
+    {
+        "contatos": {
+            "nome": "Bruno Xavier",
+            "telefone": "31 91234-5678",
+            "email": "bruno.xavier@gmail.com",
+            "cidade": "Contagem",
+            "categoria": "TI",
+            "website": "bruno.xavier.com",
+            "id": 1,
+            "foto": "/assets/imgs/OMP_6037.JPG"
+        }
+    }
+]
